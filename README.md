@@ -1,2 +1,2 @@
 # Bill-Calculator
-Calculates the electricity bill base on Ontario Energy board approved rates
+Calculates the electricity bill based on Ontario Energy board approved rates
